@@ -1,6 +1,7 @@
 **📘 Overview**
 
 This Airflow DAG automates an ETL pipeline that extracts stock data from Alpha Vantage, transforms it, and loads it into Snowflake.
+
 All tasks use the @task decorator with proper dependencies and configurations.
 
 **🧱 DAG Summary**
