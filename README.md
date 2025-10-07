@@ -6,7 +6,6 @@ All tasks use the @task decorator with proper dependencies and configurations.
 **🧱 DAG Summary**
 
 DAG Name: DATA-226_Homework-5
-File: DATA-226_Homework-5.py
 
 **Tasks:**
 
